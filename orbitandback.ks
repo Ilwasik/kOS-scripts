@@ -8,6 +8,7 @@ from {local countdown is 5.} until countdown = 0 step {set countdown to countdow
 print "Lift-of!".
 
 lock steering to up.
+// i use solidboosters... no need for throttle (Ilwasik).
 lock throttle to 1.0.
 
 set x to 0.
